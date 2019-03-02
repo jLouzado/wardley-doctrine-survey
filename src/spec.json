@@ -20,7 +20,8 @@
                 },
                 {
                     "id": 2,
-                    "title": "Focus on high situational awareness (conversations are had in their proper context)",
+                    "title": "Focus on high situational awareness",
+                    "description": "Teams have deep understanding of the wider context - particularly outside of the org - of their discussions."
                     "type": "select"
                 },
                 {
@@ -72,7 +73,6 @@
                 {
                     "id": 8,
                     "title": "Use appropriate tools (eg. mapping, financial models)",
-                    "description": "This is specifically asking in a business development context"
                 },
                 {
                     "id": 9,
