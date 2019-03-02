@@ -11,6 +11,7 @@
         {
             "id": 1,
             "title": "Communication",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
@@ -19,7 +20,7 @@
                 },
                 {
                     "id": 2,
-                    "title": "Focus on high situational awareness (understand what is being considered)",
+                    "title": "Focus on high situational awareness (conversations are had in their proper context)",
                     "type": "select"
                 },
                 {
@@ -36,7 +37,8 @@
         },
         {
             "id": 2,
-            "title": "Development",
+            "title": "Business Development",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
@@ -48,15 +50,16 @@
                 },
                 {
                     "id": 3,
-                    "title": "Think fast, inexpensive, restrained and elegant (FIRE formerly FIST)"
+                    "title": "Think Fast, Inexpensive, Restrained and Elegant (FIRE formerly FIST)"
                 },
                 {
                     "id": 4,
-                    "title": "Remove bias and duplication"
+                    "title": "Remove bias and duplication (systems, processes, roles, whatever...)"
                 },
                 {
                     "id": 5,
-                    "title": "Use appropriate methods (eg. agile  vs lean vs 6 sigma)"
+                    "title": "Use appropriate processes (eg. agile vs lean vs 6 sigma) depending on the context",
+                    "description": "Ex: Lean for an early stage startup, `Agile` at scale, and 6 Sigma for Mars-Rover level software-quality"
                 },
                 {
                     "id": 6,
@@ -68,7 +71,8 @@
                 },
                 {
                     "id": 8,
-                    "title": "Use appropriate tools (eg. mapping, financial models)"
+                    "title": "Use appropriate tools (eg. mapping, financial models)",
+                    "description": "This is specifically asking in a business development context"
                 },
                 {
                     "id": 9,
@@ -79,10 +83,12 @@
         {
             "id": 3,
             "title": "Operation",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
-                    "title": "Manage inertia (eg. existing practice, political capital, previous investment)"
+                    "title": "Manage inertia (eg. existing practice, political capital, previous investment)",
+                    "description": "One measure would be how consistency of velocity: does it get slower as more code is written."
                 },
                 {
                     "id": 2,
@@ -112,7 +118,8 @@
         },
         {
             "id": 4,
-            "title": "Structure",
+            "title": "Organization Structure",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
@@ -120,7 +127,7 @@
                 },
                 {
                     "id": 2,
-                    "title": "Think small (as in teams, "two pizzas")"
+                    "title": "Think small (as in teams, 'two pizzas')"
                 },
                 {
                     "id": 3,
@@ -136,7 +143,8 @@
                 },
                 {
                     "id": 6,
-                    "title": "There is no one culture (eg. pioneers, settlers and town planners)"
+                    "title": "Subcultures can flourish within the overall culture",
+                    "description": "There is diversity of thought and approach"
                 },
                 {
                     "id": 7,
@@ -147,6 +155,7 @@
         {
             "id": 5,
             "title": "Learning",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
@@ -169,6 +178,7 @@
         {
             "id": 6,
             "title": "Leading",
+            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
                     "id": 1,
@@ -204,7 +214,7 @@
                 },
                 {
                     "id": 9,
-                    "title": "Exploit the landscape"
+                    "title": "Exploit the landscape (capitalize on contextual opportunities)"
                 }
             ]
         }
