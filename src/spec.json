@@ -21,7 +21,7 @@
                 {
                     "id": 2,
                     "title": "Focus on high situational awareness",
-                    "description": "Teams have deep understanding of the wider context - particularly outside of the org - of their discussions."
+                    "description": "Teams have deep understanding of the wider context - particularly outside of the org - of their discussions.",
                     "type": "select"
                 },
                 {
@@ -38,7 +38,7 @@
         },
         {
             "id": 2,
-            "title": "Business Development",
+            "title": "Development",
             "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
             "questions": [
                 {
