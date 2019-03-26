@@ -27,7 +27,7 @@
         {
             "id": 1,
             "title": "Communication",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
@@ -55,7 +55,7 @@
         {
             "id": 2,
             "title": "Development",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
@@ -100,7 +100,7 @@
         {
             "id": 3,
             "title": "Operation",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
@@ -136,7 +136,7 @@
         {
             "id": 4,
             "title": "Organization Structure",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
@@ -173,7 +173,7 @@
         {
             "id": 5,
             "title": "Learning",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
@@ -196,7 +196,7 @@
         {
             "id": 6,
             "title": "Leading",
-            "description": "Each question below is a Team-Level Goal, not an Individual Goal. Choose the option that you feel is most appropriate",
+            "description": "Rank the Team on each question below. `The Team is...`",
             "questions": [
                 {
                     "id": 1,
