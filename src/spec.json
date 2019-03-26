@@ -80,7 +80,8 @@
                 },
                 {
                     "id": 6,
-                    "title": "Focus on the outcome not a contract (eg. worth based development)"
+                    "title": "Focus on the outcome not a contract",
+                    "description": "It's not just about a contract, it's about delivering value"
                 },
                 {
                     "id": 7,
@@ -124,7 +125,7 @@
                 },
                 {
                     "id": 6,
-                    "title": "Set exceptional standards (great is just not good enough)"
+                    "title": "Set exceptional standards (merely great is not good enough)"
                 },
                 {
                     "id": 7,
@@ -143,7 +144,8 @@
                 },
                 {
                     "id": 2,
-                    "title": "Think small (as in teams, 'two pizzas')"
+                    "title": "Think small",
+                    "description": "Ex: For team-size, limit to 'two-pizza' teams)"
                 },
                 {
                     "id": 3,
